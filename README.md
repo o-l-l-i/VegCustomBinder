@@ -14,3 +14,5 @@ Later updates might break something.
 
 A view of the graph used in this demo:
 ![VEG Custom Binder Demo Image](graph_image.png)
+
+© 2020 Olli Sorjonen All Rights Reserved
